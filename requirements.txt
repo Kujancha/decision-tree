@@ -1,3 +1,6 @@
 This project requires the following two libraries:
 a. numpy
 b. pandas
+
+
+huhuh i just realized that people can just pip install requriements,txt this lol sorry not sorry, i mean if you are reading this you prob already jave installed numpy and pandas
